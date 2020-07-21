@@ -17,7 +17,7 @@
     "joi": "^14.3.1",
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.17.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lodash.groupby": "^4.6.0",
     "node-datetime": "^2.1.2",
     "nodemailer": "^6.4.6",
